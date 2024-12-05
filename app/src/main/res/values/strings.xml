@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubProfile</string>
+    <string name="my_github_profile">My Github Profile</string>
+    <string name="search">Search</string>
+    <string name="user_login">Input User Login</string>
+    <string name="github_user_profile">Github User Profile</string>
+    <string name="image_user">Image User</string>
+</resources>
